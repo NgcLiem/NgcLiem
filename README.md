@@ -27,6 +27,7 @@
 | Tên dự án | Công nghệ | Mô tả |
 |-----------|-----------|-------|
 | 💡 **Quản lý tiền điện (Spring MVC)** | Java, Spring MVC, SQL Server | Ứng dụng web quản lý chỉ số điện, tính hóa đơn bậc thang và thanh toán |
+| 💡 **Ứng dụng web** | Python, DjanGo, MongoDB | Ứng dụng web cho phép đăng nhập, đăng ký, phân quyền |
 
 ---
 
