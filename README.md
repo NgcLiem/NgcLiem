@@ -18,7 +18,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
@@ -27,7 +26,8 @@
 | Tên dự án | Công nghệ | Mô tả |
 |-----------|-----------|-------|
 | 💡 **Quản lý tiền điện (Spring MVC)** | Java, Spring MVC, SQL Server | Ứng dụng web quản lý chỉ số điện, tính hóa đơn bậc thang và thanh toán |
-| 💡 **Ứng dụng web** | Python, DjanGo, MongoDB | Ứng dụng web cho phép đăng nhập, đăng ký, phân quyền |
+| 💡 **Web nhật ký học tập** | Python, DjanGo, MongoDB | Ứng dụng web cho phép đăng nhập, đăng ký, quản lý thời gian và công việc trong ngày |
+| 💡 Ứng dụng web  | Java, Java Spring Boot, MySql | Ứng dụng web cho phép đăng nhập, đăng ký, phân quyền, xác thực, testing |
 
 ---
 
